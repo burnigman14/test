@@ -19,6 +19,7 @@ class Test {
     public function sayHello() {
             
            echo "Hello";
+           echo "Hello1";
           
     }       
        
